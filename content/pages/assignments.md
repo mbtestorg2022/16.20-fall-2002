@@ -9,19 +9,212 @@ There are three types of home assignments given on a weekly basis. The parts to 
 Home Assignments
 ----------------
 
-| ASSIGNMENT # | DAY ISSUED | DAY DUE | SOLUTIONS |
-| --- | --- | --- | --- |
-| 1 ([PDF]({{< baseurl >}}/resources/ha1)) | Day 5: Lecture 5 | Day 9: Lecture 9 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/sol_to_ha1_we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha1pp))  {{< br >}}Application Tasks |
-| 2 ([PDF]({{< baseurl >}}/resources/ha2)) | Day 9: Lecture 9 | Day 12: Lecture 12 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha2we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha2pp))  {{< br >}}Application Tasks |
-| 3 ([PDF]({{< baseurl >}}/resources/ha3)) | Day 12: Lecture 12 | Day 16: Lecture 16 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha3we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha3pp))  {{< br >}}Application Tasks |
-| 4 ([PDF]({{< baseurl >}}/resources/ha4)) | Day 16: Lecture 16 | Day 20: Lecture 20 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha4we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha4pp))  {{< br >}}Application Tasks |
-| 5 ([PDF]({{< baseurl >}}/resources/ha5)) | Day 22 | Day 26: Lecture 25 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha5we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha5pp))  {{< br >}}Application Tasks |
-| 6 ([PDF]({{< baseurl >}}/resources/ha6)) | Day 26: Lecture 25 | Day 30: Lecture 29 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha6we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha6pp))  {{< br >}}Application Tasks |
-| 7 ([PDF]({{< baseurl >}}/resources/ha7)) | Day 30: Lecture 29 | Day 34: Lecture 33 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha7we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha7pp))  {{< br >}}Application Tasks |
-| 8 (Part A) ([PDF]({{< baseurl >}}/resources/ha8))  {{< br >}}  (Part B) ([PDF]({{< baseurl >}}/resources/ha8b)) | Day 34 (Part A): Lecture 33  {{< br >}}Day 37 (Part B) | Day 41: Lecture 39 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha8we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha8pp))  {{< br >}}Application Tasks |
-| 9 ([PDF]({{< baseurl >}}/resources/ha9)) | Day 38: Lecture 36 | Day 45: Lecture 43 | Application Tasks |
-| 10 ([PDF]({{< baseurl >}}/resources/ha10)) | Day 43: Lecture 41 | Day 48: Lecture 46 | Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha10we))  {{< br >}}Practice Problems ([PDF]({{< baseurl >}}/resources/ha10pp))  {{< br >}}Application Tasks |
-| 11 ([PDF]({{< baseurl >}}/resources/ha11)) | Day 48: Lecture 46 | Not Due | Practice Problems ([PDF]({{< baseurl >}}/resources/ha11pp)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENT #
+{{< thclose >}}
+{{< thopen >}}
+DAY ISSUED
+{{< thclose >}}
+{{< thopen >}}
+DAY DUE
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 ([PDF]({{< baseurl >}}/resources/ha1))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 5: Lecture 5
+{{< tdclose >}}
+{{< tdopen >}}
+Day 9: Lecture 9
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/sol_to_ha1_we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha1pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 ([PDF]({{< baseurl >}}/resources/ha2))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 9: Lecture 9
+{{< tdclose >}}
+{{< tdopen >}}
+Day 12: Lecture 12
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha2we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha2pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 ([PDF]({{< baseurl >}}/resources/ha3))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 12: Lecture 12
+{{< tdclose >}}
+{{< tdopen >}}
+Day 16: Lecture 16
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha3we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha3pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 ([PDF]({{< baseurl >}}/resources/ha4))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 16: Lecture 16
+{{< tdclose >}}
+{{< tdopen >}}
+Day 20: Lecture 20
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha4we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha4pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 ([PDF]({{< baseurl >}}/resources/ha5))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 22
+{{< tdclose >}}
+{{< tdopen >}}
+Day 26: Lecture 25
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha5we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha5pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 ([PDF]({{< baseurl >}}/resources/ha6))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 26: Lecture 25
+{{< tdclose >}}
+{{< tdopen >}}
+Day 30: Lecture 29
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha6we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha6pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7 ([PDF]({{< baseurl >}}/resources/ha7))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 30: Lecture 29
+{{< tdclose >}}
+{{< tdopen >}}
+Day 34: Lecture 33
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha7we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha7pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8 (Part A) ([PDF]({{< baseurl >}}/resources/ha8))  
+  (Part B) ([PDF]({{< baseurl >}}/resources/ha8b))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 34 (Part A): Lecture 33  
+Day 37 (Part B)
+{{< tdclose >}}
+{{< tdopen >}}
+Day 41: Lecture 39
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha8we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha8pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9 ([PDF]({{< baseurl >}}/resources/ha9))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 38: Lecture 36
+{{< tdclose >}}
+{{< tdopen >}}
+Day 45: Lecture 43
+{{< tdclose >}}
+{{< tdopen >}}
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 ([PDF]({{< baseurl >}}/resources/ha10))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 43: Lecture 41
+{{< tdclose >}}
+{{< tdopen >}}
+Day 48: Lecture 46
+{{< tdclose >}}
+{{< tdopen >}}
+Warm-Up Exercises ([PDF]({{< baseurl >}}/resources/ha10we))  
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha10pp))  
+Application Tasks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11 ([PDF]({{< baseurl >}}/resources/ha11))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 48: Lecture 46
+{{< tdclose >}}
+{{< tdopen >}}
+Not Due
+{{< tdclose >}}
+{{< tdopen >}}
+Practice Problems ([PDF]({{< baseurl >}}/resources/ha11pp))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Design Problems
 ---------------
@@ -30,9 +223,69 @@ A fourth type of home assignment in 16.20 is design problems. There will be four
 
 Design problems will be posted on the day that they are handed out in class. The teaching staff approach (i.e. our solution but not "the" solution) to these problems will be posted on the website after the due day.
 
-| DESIGN PROBLEM # | DAY ISSUED | DAY DUE |
-| --- | --- | --- |
-| 1 ([PDF]({{< baseurl >}}/resources/dp1)) | Day 5 | Day 10 |
-| 2 ([PDF]({{< baseurl >}}/resources/dp2)) | Day 11 | Day 17 |
-| 3 ([PDF]({{< baseurl >}}/resources/dp3)) | Day 20 | Day 31 |
-| 4 ([PDF]({{< baseurl >}}/resources/dp4)) | Day 36 | Day 47
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DESIGN PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+DAY ISSUED
+{{< thclose >}}
+{{< thopen >}}
+DAY DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 ([PDF]({{< baseurl >}}/resources/dp1))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 5
+{{< tdclose >}}
+{{< tdopen >}}
+Day 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 ([PDF]({{< baseurl >}}/resources/dp2))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 11
+{{< tdclose >}}
+{{< tdopen >}}
+Day 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 ([PDF]({{< baseurl >}}/resources/dp3))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 20
+{{< tdclose >}}
+{{< tdopen >}}
+Day 31
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 ([PDF]({{< baseurl >}}/resources/dp4))
+{{< tdclose >}}
+{{< tdopen >}}
+Day 36
+{{< tdclose >}}
+{{< tdopen >}}
+Day 47
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
